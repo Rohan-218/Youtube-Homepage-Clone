@@ -4,11 +4,9 @@
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [File Structure](#file-structure)
+4. [Usage](#usage)
+5. [File Structure](#file-structure)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 This project is a clone of the YouTube website, created to practice and demonstrate front-end development skills using HTML and CSS. The clone includes the main functionalities and layout of YouTube, including a header, sidebar, and a grid of video previews.
