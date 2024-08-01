@@ -22,7 +22,7 @@ This project is a clone of the YouTube website, created to practice and demonstr
 - CSS
 
 ## Usage
-To view the YouTube clone, use link `https://rohan-218.github.io/Youtube-Homepage-Clone/`.
+To view the YouTube clone, use link https://rohan-218.github.io/Youtube-Homepage-Clone/.
 
 ## File Structure
 ```
